@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "-disqus",
+    "-sharing",
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "github-buttons": {
+      "repo": "frank6866/gitbook-ansible",
+      "types": [
+        "star"
+      ],
+      "size": "small"
+    }
+  }
+}
